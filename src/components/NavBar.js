@@ -9,7 +9,7 @@ const NavBar = () => {
             <div className="app-header">{metadata.appName}</div>
             <div className="nav-links">
                 <a
-                    href="https://www.github.com/jessej-samuel/spotipy"
+                    href="https://www.github.com/butasi/spotipy"
                     target="_blank"
                     rel="noreferrer"
                 >

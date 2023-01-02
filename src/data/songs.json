@@ -32,9 +32,9 @@
         }
     },
     {
-        "name": "Triple Xl",
-        "author": "Wakadinali",
-        "url": "./music/Wakadinali_-_Triple XL.m4a",
+        "name": "CEO Airdrop",
+        "author": "Ynw_Ruffian,Jay_Marley,_Airdrop_Bloods",
+        "url": "./music/Ceo_Airdrop_-Ex_Feat.Ynw_Ruffian,Jay_Marley,_Airdrop_Bloods.mkv",
         "id": 2,
         "links": {
             "images": [
@@ -111,70 +111,7 @@
             ]
         }
     },
-    {
-        "name": " Blank [NCS Release]",
-        "author": "Disfigure",
-        "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741669588205598/Disfigure_-_Blank_NCS_ReleaseMP3_160K.mp3",
-        "id": 7,
-        "links": {
-            "images": [
-                {
-                    "url": "https://i.scdn.co/image/ab6761610000e5eb2aa26cfdf3b785f171a4795c"
-                },
-                {
-                    "url": "https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a"
-                }
-            ]
-        }
-    },
-    {
-        "name": "Nekozilla [NCS Release]",
-        "author": "Different Heaven",
-        "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741669626085426/Different_Heaven_-_Nekozilla_NCS_ReleaseMP3_160K.mp3",
-        "id": 8,
-        "links": {
-            "images": [
-                {
-                    "url": "https://i.scdn.co/image/ab6761610000e5eb2af8bbb74cb106ac91d31c9a"
-                },
-                {
-                    "url": "https://i.scdn.co/image/ab67616d0000b27309065005b0fbfc4b320d05de"
-                }
-            ]
-        }
-    },
-    {
-        "name": "Savannah (feat. Philly K) [NCS Release]",
-        "author": "Diviners",
-        "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741669626085426/Different_Heaven_-_Nekozilla_NCS_ReleaseMP3_160K.mp3",
-        "id": 9,
-        "links": {
-            "images": [
-                {
-                    "url": "https://i.scdn.co/image/ab6761610000e5eb2d530c07b6c9f629e3327175"
-                },
-                {
-                    "url": "https://i.scdn.co/image/ab67616d0000b273b536cfb98c74558db48f8a46"
-                }
-            ]
-        }
-    },
-    {
-        "name": "Cloud 9 [NCS Release]",
-        "author": "Itro & Tobu",
-        "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741836018974740/Itro___Tobu_-_Cloud_9_NCS_ReleaseMP3_160K.mp3",
-        "id": 10,
-        "links": {
-            "images": [
-                {
-                    "url": "https://i.scdn.co/image/ab6761610000e5eb90533dd45388e25202c8de48"
-                },
-                {
-                    "url": "https://i.scdn.co/image/ab67616d0000b273d6fd719531afda5f9cc0e248"
-                }
-            ]
-        }
-    },
+    
     
     {
         "name": "Intentions",

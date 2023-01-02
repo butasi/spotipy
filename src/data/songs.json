@@ -1,8 +1,8 @@
 [
     {
-        "name": "Sing me to sleep",
-        "author": "Alan Walker",
-        "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741533789224960/Alan_Walker_-_Sing_Me_To_SleepMP3_160K.mp3",
+        "name": "Better Days",
+        "author": "Wakadinali",
+        "url": "./music/Wakadinali_-_Better_Days.mp3",
         "id": 0,
         "links": {
             "images": [
@@ -18,7 +18,7 @@
     {
         "name": "Fade-NCS Release",
         "author": "Alan Walker",
-        "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741536591806484/Alan_Walker_-_Fade_NCS_ReleaseMP3_160K.mp3",
+        "url": "./music/Alan_Walker_-_Fade_NCS_ReleaseMP3_160K.mp3",
         "id": 1,
         "links": {
             "images": [
@@ -32,9 +32,9 @@
         }
     },
     {
-        "name": "She-NCS Release",
-        "author": "Andromedik",
-        "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741544149549096/Andromedik_-_SHE_NCS_ReleaseMP3_160K.mp3",
+        "name": "Triple Xl",
+        "author": "Wakadinali",
+        "url": "./music/Wakadinali_-_Triple XL.m4a",
         "id": 2,
         "links": {
             "images": [
@@ -48,9 +48,9 @@
         }
     },
     {
-        "name": "About you-NCS Release",
-        "author": "Ascence",
-        "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741547203002389/Ascence_-_About_You_NCS_ReleaseMP3_160K.mp3",
+        "name": "Morio Anzenza",
+        "author": "Wakadinali",
+        "url": "./music/Wakadinali_-_Morio Anzenza.m4a",
         "id": 3,
         "links": {
             "images": [
@@ -64,9 +64,9 @@
         }
     },
     {
-        "name": "On & On (feat. Daniel Levi) [NCS Release]",
-        "author": "Cartoon",
-        "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741549177995264/Cartoon_-_On___On_feat._Daniel_Levi_NCS_ReleaseMP3_160K.mp3",
+        "name": "Nyaranyaranyara",
+        "author": "Wakadinali",
+        "url": "./music/Wakadinali_-_Nyaranyara.m4a",
         "id": 4,
         "links": {
             "images": [
@@ -80,9 +80,9 @@
         }
     },
     {
-        "name": "Castle [NCS Release]",
-        "author": "Clarx & Harddope",
-        "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741580619284540/Clarx___Harddope_-_Castle_NCS_ReleaseMP3_160K.mp3",
+        "name": "Dilated",
+        "author": "Wakadinali",
+        "url": "./music/Wakadinali_-_Dilated.m4a",
         "id": 5,
         "links": {
             "images": [
@@ -626,7 +626,7 @@
     {
         "name": "Let Me Love You",
         "author": "DJ Snake ft Justin Bieber",
-        "url": "./music/DJ_Snake_-_Let_Me_Love_You_ft._Justin_Bieber_OffiMP3_128K.mp3",
+        "url": "./music/Wakadinali_-_Better_Days.mp3",
         "id": 39,
         "links": {
             "images": [
